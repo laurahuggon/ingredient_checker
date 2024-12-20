@@ -32,17 +32,15 @@ This Python script is a Streamlit-based web application designed to help users a
 
 ## Usage
 1. Run the script using Streamlit:
-```streamlit run ingredient_checker.py```
-2. Select the product type.
-3. Enter a comma-separated list of ingredients.
-4. Click `Submit` to analyse the ingredients.
-5. View the highlighted ingredient list and the detailed composition message.
-6. Use `Reset` to clear the inputs and start over.
+```
+streamlit run ingredient_checker.py
+```
+3. Select the product type.
+4. Enter a comma-separated list of ingredients.
+5. Click `Submit` to analyse the ingredients.
+6. View the highlighted ingredient list and the detailed composition message.
+7. Use `Reset` to clear the inputs and start over.
 
 ## Dependencies
   - Python 3.x
-  - Streamlit: Install using pip install streamlit
-
-## Example Input
-Product Type: Haircare
-Ingredients: "Water, Dimethicone, Sodium Lauryl Sulfate, Shea Butter, Hydrolyzed Keratin"
+  - Streamlit: install using `pip install streamlit`
