@@ -1,6 +1,5 @@
 import streamlit as st
 
-
 # Define a function to check ingredients
 def check_ingredients(product_type, ingredients):
     # Define lists of keywords to search for in the ingredients
